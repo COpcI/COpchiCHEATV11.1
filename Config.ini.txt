@@ -1,0 +1,10 @@
+[Settings]  
+Aimbot=1  
+Wallhack=1  
+NoRecoil=0  
+FOV=90  
+Hotkey=F12  
+
+[Game]  
+ProcessName=cs2.exe  
+AutoInject=1  
