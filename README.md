@@ -33,7 +33,6 @@ Mojang’s EULA prohibits cheating. We do not condone misuse.
 False positives: Our code is obfuscated, triggering AVs. Virustotal Report.
 
 No malware: Read our transparency policy.
-![launcher](https://i.postimg.cc/Zbrb2mNN/1750523317452.png)
 </details>
 🌟 Why Choose COpchiCHEAT?
 Feature	COpchiCHEAT	Competitor X
