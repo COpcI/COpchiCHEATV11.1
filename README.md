@@ -12,8 +12,7 @@
 diff
 + New in v11.1: Improved Flight & Scaffold!  
 - Removed: Risky features (reduced detection rate).  
-📦 Installation
-Download the latest build from fakelink.ru.
+📦 Instation
 
 Disable antivirus (false positives; why?).
 
