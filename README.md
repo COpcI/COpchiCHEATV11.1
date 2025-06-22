@@ -27,8 +27,7 @@ mvn clean package
 <span style="color: #55FF55">✔</span> <span style="color: #5555FF">Multi-Version</span>: 1.8.9 to 1.20.4 support
 
 <span style="color: #FFFF55">🛡</span> <span style="color: #FFFF55">Safety & Verification</span>
-https://img.shields.io/badge/VirusTotal-Report-%252342b983
-https://img.shields.io/badge/SHA256-Check-%2523007ec6
+https://www.virustotal.com/gui/file/5d7a152ac424459c7459c6dc4734bfba3b797c0c06d0a7ada11f8f5a9984dc84?nocache=1
 
 <details> <summary><span style="color: #FF5555">⚠️ CLICK FOR SAFETY WARNINGS</span></summary>
 ❗ Use at your own risk - third-party mod
@@ -42,5 +41,3 @@ Undetected	✅ 6+ months	❌ 2 weeks
 Performance	1% FPS loss	15%+ loss
 Support	24/7 Discord	Email only
 
-# Easter Egg
-print("<span style="color: #FF5555">COpchiCHEAT</span> > Loading awesomeness...")
