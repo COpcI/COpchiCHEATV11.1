@@ -13,3 +13,8 @@
 1. ⚠️ Disable antivirus (false positives; see FAQ below)
 2. ▶️ Run COpchi_Loader.exe as Administrator
 3. 🎮 Select Minecraft version and inject!
+
+# For Developers: Build from Source
+git clone https://github.com/COpchi/COpchiCHEATV11.1
+cd COpchiCHEATV11.1
+mvn clean package
