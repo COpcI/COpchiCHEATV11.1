@@ -38,7 +38,7 @@ mvn clean package
 ❗ Use at your own risk - third-party mod  
 ❗ Mojang's EULA prohibits cheating  
 ❗ False positives expected due to obfuscation  
-</details>
+</details> 
 
 ## <span style="color: #55FFFF">🌟 Why Choose Us?</span>  
 | Feature        | <b style="color: #55FF55">COpchiCHEAT</b> | <b style="color: #FF5555">Others</b> |  
