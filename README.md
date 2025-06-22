@@ -12,7 +12,7 @@
 ```diff
 ⚙️ Installation Steps
 ⚠️ Disable your antivirus (false positives - see FAQ)
-▶️ Run COpchi_Loader.exe as Administrator
+▶️ Run MCCheatLauncher.exe as Administrator
 🎮 Select Minecraft version and inject!
 ```
 
