@@ -47,9 +47,4 @@ mvn clean package
 | Performance    | <b style="color: #FFFF55; background: #4A2C2A">1% FPS loss</b> | <b style="color: #FF5555; background: #4A2C2A">15%+ loss</b> |  
 | Support        | <b style="color: #55FFFF; background: #2F1B3D">24/7 Discord</b> | <b style="color: #FF5555; background: #4A2C2A">Email only</b> |  
 
-```python
-# Easter Egg
-print("COpchiCHEAT > Loading awesomeness...")
-```
 
----
