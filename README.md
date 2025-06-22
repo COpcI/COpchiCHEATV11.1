@@ -34,10 +34,3 @@ https://www.virustotal.com/gui/file/5d7a152ac424459c7459c6dc4734bfba3b797c0c06d0
 ❗ Mojang's EULA prohibits cheating
 ❗ False positives expected due to obfuscation
 
-</details>
-<span style="color: #55FF55">🌟</span> <span style="color: #55FF55">Why Choose Us?</span>
-Feature	COpchiCHEAT	Others
-Undetected	✅ 6+ months	❌ 2 weeks
-Performance	1% FPS loss	15%+ loss
-Support	24/7 Discord	Email only
-
